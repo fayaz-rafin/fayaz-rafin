@@ -2,7 +2,17 @@
 # Fayaz Rafin
 I'm Fayaz from Canada and I am a Computer Security student at York University.
 
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Java],
+  tools: [React, Node],
+  
+```
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayaz-rafin)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![Profile views](https://gpvc.arturio.dev/fayaz-rafin)  
 
