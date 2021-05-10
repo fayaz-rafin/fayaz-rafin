@@ -3,7 +3,7 @@
 I'm Fayaz from Canada and I am a Computer Security student at York University.
 
 ```javascript
-const bengali = {
+const aboutMe = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Java],
   tools: [React, Node],
@@ -14,8 +14,11 @@ const bengali = {
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayaz-rafin)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=fayaz-rafin.fayaz-rafin)
 
-![Profile views](https://gpvc.arturio.dev/fayaz-rafin)  
+# Contact me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/fayaz-rafin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fayazrafin//)  
+Here's my socials and LinkedIn. I can't wait to connect with you and get to know each other over coffee! 😊 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fintastic.jpg/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/fayaz-rafin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fayazrafin//) 
 
