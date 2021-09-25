@@ -1,13 +1,11 @@
 ![I am GitHub Readme Generator's creator](https://github.com/fayaz-rafin/fayaz-rafin/blob/main/Freelance%20Writer%20Portfolio%20Website.png)
 # Fayaz Rafin
-I'm Fayaz from Canada and I am a Computer Security student at York University.
+I'm Fayaz from Canada and I am a Computer Engineering student at York University.
 
 ```javascript
 const aboutMe = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Java],
-  tools: [React, Node],
-  
+  code: [Javascript, Python, Java],
   }
 ```
 
