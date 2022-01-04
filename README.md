@@ -4,9 +4,13 @@ I'm Fayaz from Canada and I am a Computer Engineering student at York University
 
 ```javascript
 const aboutMe = {
-  pronouns: "he" | "him",
-  code: [Javascript, Python, Java],
+  pronouns: ["he" | "him"],
+  languages: ["HTML", "CSS", "Javascript", "Python", "Java"],
+  Frameworks: ["React", "Flask", "JUnit", "WordPress"],
+  Developer Tools: ["Git", "Figma", "Adobe XD", "Matlab", "VS Code","Android Studio", "PyCharm", "IntelliJ", "Eclipse", "Adruino",
+  libraries: ["Discord.py", "NumPy"]
   }
+  
 ```
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayaz-rafin)](https://github.com/anuraghazra/github-readme-stats)
