@@ -5,10 +5,9 @@ I'm Fayaz from Canada and I am a Computer Engineering student at York University
 ```javascript
 const aboutMe = {
   pronouns: ["he" | "him"],
-  languages: ["HTML", "CSS", "Javascript", "Python", "Java"],
+  languages: ["Javascript", "Python", "Java","Flutter],
   Frameworks: ["React", "Flask", "JUnit", "WordPress"],
-  Developer Tools: ["Git", "Figma", "Adobe XD", "Matlab", "VS Code","Android Studio", "PyCharm", "IntelliJ", "Eclipse", "Adruino",
-  libraries: ["Discord.py", "NumPy"]
+  libraries: ["Discord.py", "NumPy","material-ui"]
   }
   
 ```
