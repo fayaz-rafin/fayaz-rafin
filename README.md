@@ -5,11 +5,9 @@ I'm Fayaz from Canada and I am a Computer Engineering student at York University
 ```javascript
 const aboutMe = {
   pronouns: ["he" | "him"],
-  languages: ["Javascript", "Python", "Java","Flutter],
-  Frameworks: ["React", "Flask", "JUnit", "WordPress"],
-  libraries: ["Discord.py", "NumPy","material-ui"]
+  languages: ["Javascript", "Python", "Java", "Flutter"],
+  Libraries & Frameworks: ["React", "Flask", "JUnit", "Tailwind", "MongoDB", "Node.js", "Express.js", "PostgreSQL", "Docker", "AWS Cognito", "AWS Localstack"],
   }
-  
 ```
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayaz-rafin)](https://github.com/anuraghazra/github-readme-stats)
