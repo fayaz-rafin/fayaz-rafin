@@ -6,7 +6,9 @@ Hi, my name is Fayaz. I'm from the vibrant city of Toronto, Canada and I am an E
 const aboutMe = {
   pronouns: ["he" | "him"],
   languages: ["Javascript", "Python", "Java", "Flutter"],
-  Libraries & Frameworks: ["React", "Flask", "JUnit", "Tailwind", "MongoDB", "Node.js", "Express.js", "PostgreSQL", "Docker", "AWS Cognito", "AWS Localstack"],
+  Libraries & Frameworks: ["React", "Flask", "JUnit", "Tailwind", 
+                            "MongoDB", "Node.js", "Express.js", "PostgreSQL",
+                            "Docker", "AWS Cognito", "AWS Localstack"],
   }
 ```
 
