@@ -14,9 +14,9 @@ const aboutMe = {
 ## About Me:
 ---
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,react,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,js,html,css,flutter)](https://skillicons.dev)
 ### Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flask,tailwind,mongodb,express,nodejs,npm,postgres,docker,aws,postman,unity,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,tailwind,mongodb,express,react,nodejs,npm,postgres,docker,aws,postman,unity,godot)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayaz-rafin)](https://github.com/anuraghazra/github-readme-stats)
 
