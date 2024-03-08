@@ -1,18 +1,18 @@
 ![I am GitHub Readme Generator's creator](https://github.com/fayaz-rafin/fayaz-rafin/blob/main/Freelance%20Writer%20Portfolio%20Website.png)
 # Fayaz Rafin
 Hi, my name is Fayaz. I'm from the vibrant city of Toronto, Canada and I am an Electrical Engineering student at York University.
-
-```javascript
-const aboutMe = {
-  pronouns: ["he" | "him"],
-  languages: ["Javascript", "Python", "Java", "Flutter"],
-  Libraries & Frameworks: ["React", "Flask", "JUnit", "Tailwind", 
-                            "MongoDB", "Node.js", "Express.js", "PostgreSQL",
-                            "Docker", "AWS Cognito", "AWS Localstack"],
-  }
-```
-## About Me:
 ---
+## Experience:
+### Software Engineer Intern
+*Radar – (May,2022 - August,2022)*
+
+At Radar, a software company that created an app for matching people with similar interests, I worked on the frontend component of the app. I worked mainly using Flutter for the Frontend and I used PostgreSQL and GO for the backend component. I also designed the match, un-match, block and unblock features while the app was in beta and made slight graphical improvements to the app GUI.
+
+### President
+*Computing Students Hub – (May,2022 - Present)*
+
+As President, I lead a team of executives to organize events and initiatives that fostered community and professional development among members who have a passion in the field of computer science. I also got the opportunity to collaborate with industry professionals and academia to bring innovative speakers and hosted workshops about Machine Learning, React.js, Git, Bash, Leetcode, Discord-Bots and Figma.
+
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,js,html,css,flutter)](https://skillicons.dev)
 ### Libraries and Frameworks
