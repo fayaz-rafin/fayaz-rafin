@@ -13,7 +13,7 @@ At Radar, a software company that created an app for matching people with simila
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,js,html,css,flutter)]()
 
 ### Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=flask,tailwind,mongodb,express,react,nodejs,npm,postgres,docker,aws,postman,unity,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,tailwind,mongodb,express,react,nodejs,npm,postgres,docker,aws,postman,unity,godot)]()
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayaz-rafin)](https://github.com/anuraghazra/github-readme-stats)
 
