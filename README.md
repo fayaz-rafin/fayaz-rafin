@@ -10,7 +10,7 @@ At Radar, a software company that created an app for matching people with simila
 
 ---
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,js,html,css,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,js,html,css,flutter)]()
 
 ### Libraries and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flask,tailwind,mongodb,express,react,nodejs,npm,postgres,docker,aws,postman,unity,godot)](https://skillicons.dev)
