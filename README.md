@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://github.com/fayaz-rafin/fayaz-rafin/blob/main/Fayaz%20Rafin.png" alt="Sublime's custom image"/>
+  <img src="https://github.com/fayaz-rafin/fayaz-rafin/blob/main/Group%203.png" alt="Sublime's custom image"/>
 </p>
 
-Hi, my name is Fayaz. I'm from the vibrant city of Toronto, Canada and I am an Electrical Engineering student at York University.
----
 ## Experience:
 ### Software Engineer Intern
 *Radar – (May,2022 - August,2022)*
