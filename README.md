@@ -1,5 +1,7 @@
-![I am GitHub Readme Generator's creator](https://github.com/fayaz-rafin/fayaz-rafin/blob/main/Freelance%20Writer%20Portfolio%20Website.png)
-# Fayaz Rafin
+<p align="center">
+  <img src="https://github.com/fayaz-rafin/fayaz-rafin/blob/main/Fayaz%20Rafin.png" alt="Sublime's custom image"/>
+</p>
+
 Hi, my name is Fayaz. I'm from the vibrant city of Toronto, Canada and I am an Electrical Engineering student at York University.
 ---
 ## Experience:
