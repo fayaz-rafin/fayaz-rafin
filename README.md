@@ -15,7 +15,7 @@ At Radar, I contributed to the development of a social matching app as a fronten
 
 ---
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=rust,python,c,java,js,ts,flutter)]()
+[![My Skills](https://skillicons.dev/icons?i=rust,python,c,cs,java,js,ts,flutter)]()
 
 ### Libraries and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=flask,nextjs,tailwind,mongodb,express,react,nodejs,npm,pnpm,postgres,docker,aws,postman,unity,godot)]()
