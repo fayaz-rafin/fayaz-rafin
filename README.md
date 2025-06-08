@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/fayaz-rafin/fayaz-rafin/blob/main/Group%203.png" alt="Sublime's custom image"/>
+  <a ref="https://www.fayazrafin.xyz/">
+    <img src="https://github.com/fayaz-rafin/fayaz-rafin/blob/main/Group%203.png" alt="cool image of my skills :p"/>
+  </a>
 </p>
 
 ## Experience:
@@ -24,6 +26,7 @@ At Radar, I contributed to the development of a social matching app as a fronten
 # Contact me:
 Here are my socials and LinkedIn. I can't wait to connect with you and get to know each other over coffee! 😊 
 
+[![Website](https://img.icons8.com/fluency/48/domain.png)](https://www.fayazrafin.xyz/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/fintastic.jpg/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fayazrafin/)
 
