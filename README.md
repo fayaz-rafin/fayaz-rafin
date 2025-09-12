@@ -1,6 +1,5 @@
 <p align="center">
   <a ref="https://www.fayazrafin.xyz/">
-    <img src="https://github.com/fayaz-rafin/fayaz-rafin/blob/main/Group%203.png" alt="cool image of my skills :p"/>
   </a>
 </p>
 
