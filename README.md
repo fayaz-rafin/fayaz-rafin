@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="https://www.fayazrafin.xyz/">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Fayaz+Rafin!;Computer+Engineering+Student;Full-Stack+%26+AI+Builder;Hackathon+Organizer+%26+Open-Source+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
-<h3 align="center">Computer Engineering @ York University • Software Engineer Intern @ TD Securities</h3>
-
----
-
 ## 🚀 About Me
 
 I'm Fayaz, a Computer Engineering student at York University passionate about building full-stack apps, AI-powered tools, and creative software experiences. I enjoy working across web, cloud, data pipelines, and automation, and I love turning ambitious ideas into polished products.
