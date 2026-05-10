@@ -1,16 +1,29 @@
 ## 🚀 About Me
 
-I'm Fayaz, a Computer Engineering student at York University passionate about building full-stack apps, AI-powered tools, and creative software experiences. I enjoy working across web, cloud, data pipelines, and automation, and I love turning ambitious ideas into polished products.
+I'm Fayaz, i'm from Computer Engineering at York University and a product-minded technologist passionate about building AI-powered tools, full-stack applications, and polished software experiences.
 
-I've worked on internal enterprise software, LLM-powered apps, social platforms, hackathons, and game projects. I’m especially interested in software engineering, AI systems, developer tools, and building technology that helps people.
+I’m currently a **Senior Consultant, AI Engineering at Ignition Tax, KPMG Canada**, where I work at the intersection of artificial intelligence, software engineering, process improvement, and business transformation. My work focuses on identifying high-impact opportunities for AI adoption, designing internal solutions, prototyping AI-enabled workflows, and helping teams use emerging technologies to improve how they operate.
+
+I’ve worked across enterprise software, AI systems, cloud infrastructure, data pipelines, automation, social platforms, hackathons, and creative game projects. I’m especially interested in **AI engineering, platform engineering, full-stack development, developer tools, cloud infrastructure, and building technology that helps people work better**.
 
 ---
 
 ## 💼 Experience
 
+### Senior Consultant, AI Engineering  
+**KPMG Canada – Ignition Tax**  
+*May 2026 – Present*
+
+- Work on AI-enabled business transformation initiatives within **Ignition Tax**, combining software engineering, AI strategy, process improvement, and internal solution design.
+- Identify, evaluate, and prioritize opportunities to apply **AI, automation, and emerging technologies** across tax and business workflows.
+- Design and prototype AI-powered internal tools that help teams streamline manual processes, improve decision-making, and increase operational efficiency.
+- Collaborate with stakeholders to understand business pain points, translate requirements into technical solutions, and support the delivery of practical AI use cases.
+- Explore and evaluate modern AI platforms, tools, and model capabilities to determine how they can be embedded into internal workflows.
+- Bridge technical execution and consulting by combining engineering thinking with stakeholder communication, solution design, and ownership of delivery outcomes.
+
 ### Software Engineer Intern  
 **TD Securities – Research and Compliance, Corporate & Investment Banking**  
-*Jan 2026 – Present*
+*Jan 2026 – Apr 2026*
 
 - Built a full-stack internal web application using **Java, Spring Boot, Python, and React** to streamline audit, risk, and compliance workflows.
 - Helped create a **unified platform for Technology Asset Owners across Corporate and Investment Banking** to centrally view and manage audit records.
@@ -50,7 +63,11 @@ I've worked on internal enterprise software, LLM-powered apps, social platforms,
 ### Cloud, Databases & Tools
 [![Tools](https://skillicons.dev/icons?i=azure,aws,postgres,mysql,firebase,supabase,docker,git,github,vercel,postman)](https://skillicons.dev)
 
-### Also Worked With
+### AI, Automation & Enterprise Tools
+- **LLM Applications**
+- **Prompt Engineering**
+- **AI Agents**
+- **AI Workflow Automation**
 - **Spring Boot**
 - **FastAPI**
 - **Selenium**
@@ -99,10 +116,12 @@ I've worked on internal enterprise software, LLM-powered apps, social platforms,
 
 ## 🎯 Interests
 
-- Full-Stack Development  
 - AI Engineering  
-- LLM Applications  
+- Full-Stack Development  
+- Platform Engineering  
 - Cloud & Infrastructure  
+- LLM Applications  
+- AI Agents  
 - Data Pipelines & Automation  
 - Developer Tools  
 - Open Source  
@@ -112,7 +131,7 @@ I've worked on internal enterprise software, LLM-powered apps, social platforms,
 
 ## 🌐 Connect With Me
 
-I’m always down to connect, collaborate, or chat about tech, projects, hackathons, and creative ideas.
+I’m always down to connect, collaborate, or chat about tech, AI, software engineering, hackathons, and creative projects.
 
 [![Website](https://img.icons8.com/fluency/48/domain.png)](https://www.fayazrafin.xyz/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fayazrafin/)
