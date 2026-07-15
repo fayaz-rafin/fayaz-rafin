@@ -1,6 +1,6 @@
 ## Hi, I'm Fayaz 👋
 
-Computer Engineering student at York University and **Senior Consultant, AI Engineering at KPMG Canada (Ignition Tax)**.  
+**Senior Consultant, AI Engineering at KPMG Canada (Ignition Tax)**. Computer Engineering @ York University. 
 I build practical AI and full-stack tools that improve workflows, reduce manual work, and help teams move faster.
 
 ---
